@@ -1,9 +1,5 @@
 # Workshop-NEM-NDS-database
 
-This is the database setup of the workshop. You should complete this before the day of the workshop.
-
-
-
 <img src="https://media1.tenor.com/images/f898731211184dca06f52005d7d0a166/tenor.gif?itemid=8846380">
 
 
