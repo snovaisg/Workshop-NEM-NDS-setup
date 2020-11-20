@@ -1,10 +1,6 @@
 # Workshop-NEM-NDS-database
 
-Download this repository so you can connect to the database files and follow along the SQL workshop.
-
-## 1º - Download this repository
-
-![img](https://i.imgur.com/tHr5hZ1.png)
+This is the database setup of the workshop. You should complete this before the day of the workshop.
 
 
 
@@ -33,7 +29,9 @@ The file you should download depends on your operating system:
 
 #### Step 1.2: Download database
 
-We prepared two databases for this workshop. You can find them at [this github repo](https://github.com/snovaisg/Workshop-NEM-NDS-database). Follow the steps there to download the databases and then continue this tutorial.
+We prepared two databases for this workshop. You can find them at this repository. Follow the steps on the image below to download the databases and then continue this tutorial. You jsut have to click those 2 buttons.
+
+![img](https://i.imgur.com/tHr5hZ1.png)
 
 #### Step 2: Connect to local database
 
